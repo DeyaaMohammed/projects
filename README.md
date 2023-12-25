@@ -1,6 +1,10 @@
+<h2 id = "top" align = center>
+<a href="https://deyaamohammed.github.io/">Home</a> | <font color="#464646"><ins>Projects</ins></font> | <a href="/learningjourney">Learning Journey</a>
+</h2><hr width="100%" size="2">
+
 # Projects
 
-## ITI Graduation Project - Performance Testing
+## <img src=".\Resources\iti.png" alt="ITI" style="height: 30px;"/> ITI Graduation Project - Performance Testing
 [Repo](https://github.com/DeyaaMohammed/ITI_Graduation_Project.git) | [Demo Video](https://www.linkedin.com/posts/deyaamohammed_im-thrilled-to-present-to-you-a-demonstration-activity-7093990960862261248-rD-5/?utm_source=share&utm_medium=member_desktop)
 
 As part of this project, I performed a comprehensive exploration of performance testing on the [OpenCart platform](opencart.abstracta.us).\
@@ -18,8 +22,9 @@ The project features a variety of scenarios, including:
 - 📊 Performing Tests and Producing Reports in both CSV and HTML formats using:
   - 💠 Non-GUI Mode (CMD).
   - 💠 JMeter GUI Mode.
+<br><br>
 
-## QAcart Todo Application - Manual Testing
+## <img src=".\Resources\manual.png" alt="QAcart" style="height: 30px;"/> QAcart Todo Application - Manual Testing
 [Repo](https://github.com/DeyaaMohammed/QACart-Todo-Application.git)
 
 #### Project Overview
@@ -38,6 +43,7 @@ The QAcart Todo Application is a web-based task management tool that allows user
 - 🔍 Performed functional testing to verify the correctness of the application, and identify defects and inconsistencies in the application's behavior.
 - 🖥️ Executed test cases in diverse environments, including different web browsers, devices, and operating systems to ensure cross-browser compatibility and usability across multiple platforms.
 - 📑 Generated detailed bug reports using the provided template including information such as steps to reproduce, expected and actual behavior, and severity.
+<br><br>
 
 ## Guided Projects
 
@@ -125,4 +131,7 @@ In this project, I learned the fundamentals of performance testing using JMeter 
 - Custom graph listeners in JMeter
 
 ### Other Guided Projects
-You may find the other guided projects I've taken on my learning journey page [here.](https://deyaamohammed.github.io/learningjourney/#guided-projects---coursera-project-network)
+You may find the other guided projects I've taken on my learning journey page <font color = "#006699"><b><ins><a href='https://deyaamohammed.github.io/learningjourney/#guided-projects---coursera-project-network'>here</a></ins></b></font>.
+<br><br>
+
+<a href='#' align=right><img src="./Resources/top.png" alt="Scroll to Top" style="width:50px;" title="Scroll to Top" align=right></a><br>

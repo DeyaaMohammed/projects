@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Deyaa Mohammed
+title: <h4 align = center><font color = "#006699">Deyaa Mohammed</font></h4>
 logo: /assets/img/me.png
-description: <h4>Tech enthusiast, software tester, and avid gamer. Driven by a passion for technology and a commitment to delivering exceptional software solutions.<h4> <h4><a href= "https://deyaamohammed.github.io">Home</a> - <a href = "/projects">Projects</a> - <a href = "/learningjourney">Learning Journey</a></h4>
+description: <h4 align = center>Tech enthusiast, software tester, and avid gamer. Driven by a passion for technology and a commitment to delivering exceptional software solutions.</h4><h4 align = center><a href="https://www.linkedin.com/in/deyaamohammed/"><img src="./Resources/linkedin.png" alt="LinkedIn Profile" style="width:20px;" title="LinkedIn"></a>&nbsp;&nbsp;<a href="https://github.com/DeyaaMohammed"><img src="./Resources/github.png" alt="Github Profile" style="width:20px;" title="Github"></a>&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/deyaa_mohammed"><img src="./Resources/hackerrank.png" alt="HackerRank" style="width:20px;" title="HackerRank"></a>&nbsp;&nbsp;<a href="mailto:deyaa.mohammed@outlook.com"><img src="./Resources/email.png" alt="Email" style="width:20px;" title="Email deyaa.mohammed@outlook.com"></a>&nbsp;&nbsp;</h4><br><h4 align = center><a href= "https://deyaamohammed.github.io">Home</a> - <ins><a href = "/projects">Projects</a></ins> - <a href = "/learningjourney">Learning Journey</a></h4><br><br>
 show_downloads: false
