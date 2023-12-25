@@ -5,9 +5,9 @@
 # Projects
 
 ## <img src=".\Resources\iti.png" alt="ITI" style="height: 30px;"/> ITI Graduation Project - Performance Testing
-[Repo](https://github.com/DeyaaMohammed/ITI_Graduation_Project.git) | [Demo Video](https://www.linkedin.com/posts/deyaamohammed_im-thrilled-to-present-to-you-a-demonstration-activity-7093990960862261248-rD-5/?utm_source=share&utm_medium=member_desktop)
+<a href="https://github.com/DeyaaMohammed/ITI_Graduation_Project.git" target="_blank">Repo</a> | <a href="https://www.linkedin.com/posts/deyaamohammed_im-thrilled-to-present-to-you-a-demonstration-activity-7093990960862261248-rD-5/?utm_source=share&utm_medium=member_desktop" target="_blank">Demo Video</a>
 
-As part of this project, I performed a comprehensive exploration of performance testing on the [OpenCart platform](opencart.abstracta.us).\
+As part of this project, I performed a comprehensive exploration of performance testing on the <a href="https://opencart.abstracta.us/" target="_blank">OpenCart platform</a>.\
 The project features a variety of scenarios, including:
 - 📋 End-To-End scenarios:
   - 🛍️ Covering registration and the 1st purchase scenario from beginning to end using the JMeter Script Recorder.
@@ -17,7 +17,7 @@ The project features a variety of scenarios, including:
 - 🆗 API Performance Testing.
 - 📂 FTP Server Performance Testing.
 - 🗄️ SQL Server Local Database Performance Testing Using JDBC Connection.
-- 🗄️ MySQL Online Database Performance Testing using [db4free.net/phpMyAdmin](db4free.net/phpMyAdmin) through JDBC Connection.
+- 🗄️ MySQL Online Database Performance Testing using <a href="https://www.db4free.net/phpMyAdmin/" target="_blank">db4free.net/phpMyAdmin</a> through JDBC Connection.
 - 📧 Email Server Performance Testing using SMTP Connection.
 - 📊 Performing Tests and Producing Reports in both CSV and HTML formats using:
   - 💠 Non-GUI Mode (CMD).
@@ -25,7 +25,7 @@ The project features a variety of scenarios, including:
 <br><br>
 
 ## <img src=".\Resources\manual.png" alt="QAcart" style="height: 30px;"/> QAcart Todo Application - Manual Testing
-[Repo](https://github.com/DeyaaMohammed/QACart-Todo-Application.git)
+<a href="https://github.com/DeyaaMohammed/QACart-Todo-Application.git" target="_blank">Repo</a>
 
 #### Project Overview
 The QAcart Todo Application is a web-based task management tool that allows users to create, edit, and manage their to-do lists. This project involved developing a checklist of test cases and a bug report for the Todo application.
